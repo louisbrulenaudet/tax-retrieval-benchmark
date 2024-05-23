@@ -1,0 +1,53 @@
+{
+  "dataset_revision": "96593ed",
+  "evaluation_time": 5.836725234985352,
+  "kg_co2_emissions": null,
+  "mteb_version": "1.11.13",
+  "scores": {
+    "train": [
+      {
+        "hf_subset": "default",
+        "languages": [
+          "fra-Latn"
+        ],
+        "main_score": 0.94238,
+        "map_at_1": 0.8797,
+        "map_at_10": 0.92572,
+        "map_at_100": 0.92609,
+        "map_at_1000": 0.92609,
+        "map_at_20": 0.92595,
+        "map_at_3": 0.92189,
+        "map_at_5": 0.92377,
+        "mrr_at_1": 0.8797,
+        "mrr_at_10": 0.92572,
+        "mrr_at_100": 0.92609,
+        "mrr_at_1000": 0.92609,
+        "mrr_at_20": 0.92595,
+        "mrr_at_3": 0.92189,
+        "mrr_at_5": 0.92377,
+        "ndcg_at_1": 0.8797,
+        "ndcg_at_10": 0.94238,
+        "ndcg_at_100": 0.94404,
+        "ndcg_at_1000": 0.94404,
+        "ndcg_at_20": 0.94308,
+        "ndcg_at_3": 0.93433,
+        "ndcg_at_5": 0.93757,
+        "precision_at_1": 0.8797,
+        "precision_at_10": 0.09925,
+        "precision_at_100": 0.01,
+        "precision_at_1000": 0.001,
+        "precision_at_20": 0.04975,
+        "precision_at_3": 0.32331,
+        "precision_at_5": 0.19549,
+        "recall_at_1": 0.8797,
+        "recall_at_10": 0.99248,
+        "recall_at_100": 1.0,
+        "recall_at_1000": 1.0,
+        "recall_at_20": 0.99499,
+        "recall_at_3": 0.96992,
+        "recall_at_5": 0.97744
+      }
+    ]
+  },
+  "task_name": "TaxRetrievalBenchmark"
+}
