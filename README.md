@@ -1,5 +1,7 @@
 # Massive Text Embedding Benchmark for French Taxation 🤗
-
+<a target="_blank" href="https://colab.research.google.com/github/louisbrulenaudet/tax-retrieval-benchmark/blob/main/notebook.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
 ![Maintainer](https://img.shields.io/badge/maintainer-@louisbrulenaudet-blue)
 
