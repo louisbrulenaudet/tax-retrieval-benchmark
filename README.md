@@ -1,9 +1,8 @@
 # Massive Text Embedding Benchmark for French Taxation 🤗
-<a target="_blank" href="https://colab.research.google.com/github/louisbrulenaudet/tax-retrieval-benchmark/blob/main/notebook.ipynb">
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
+![Maintainer](https://img.shields.io/badge/maintainer-@louisbrulenaudet-blue)<a target="_blank" href="https://colab.research.google.com/github/louisbrulenaudet/tax-retrieval-benchmark/blob/main/notebook.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
-![Maintainer](https://img.shields.io/badge/maintainer-@louisbrulenaudet-blue)
 
 In this notebook, we will explore the process of adding a new task to the Massive Text Embedding Benchmark (MTEB). The MTEB is an open-source framework developed to facilitate the evaluation and benchmarking of multilingual and multi-task models across a diverse set of tasks and languages.
 
